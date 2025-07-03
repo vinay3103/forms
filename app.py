@@ -1,6 +1,6 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import libsql_experimental as libsql # type: ignore
+import libsql_experimental as libsql 
 import bcrypt
 import pandas as pd
 from datetime import datetime
